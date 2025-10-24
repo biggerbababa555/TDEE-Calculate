@@ -1,38 +1,54 @@
-# big-fit
+# big-fit — BMI / TDEE Calculator & Exercise Library
 
-This template should help get you started developing with Vue 3 in Vite.
+A modern **Vue 3 + Vite + Vuetify** app for calculating **BMI, BMR, TDEE** and browsing an **exercise library** with images and step-by-step instructions.
 
-## Recommended IDE Setup
+![App preview (iPhone mockup)](docs/preview.png)
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Recommended Browser Setup
+## ✨ Features
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- **BMI / BMR / TDEE** calculation with activity multipliers  
+- Clean, mobile-first UI (Vuetify)  
+- **Exercise library**: search by name, filter by muscle group, show image & link to full description  
+- Easy to extend (plain JSON at `/public/exercises.json`)  
+- TypeScript + Composition API
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🔢 Formulas
 
-## Project Setup
+- **BMI** = `weight(kg) / [height(m)]²`
+- **BMR (Mifflin–St Jeor)**  
+  - Male: `10×W + 6.25×H − 5×Age + 5`  
+  - Female: `10×W + 6.25×H − 5×Age − 161`
+- **TDEE** = `BMR × ActivityFactor`
 
-```sh
+| Activity Level | Description                                   | Factor |
+|---|---|---|
+| Sedentary      | Little / no exercise                          | 1.2   |
+| Light          | 1–3 days/week                                  | 1.375 |
+| Moderate       | 3–4 days/week                                  | 1.55  |
+| Active         | 5–6 days/week                                  | 1.725 |
+| Very Active    | Hard exercise / physical job                   | 1.9   |
+
+---
+
+## 📦 Tech Stack
+
+- **Vue 3**, **Vite**, **Vuetify**
+- TypeScript, Composition API
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Install
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+# Dev
 npm run dev
-```
 
-### Compile and Minify for Production
-
-```sh
+# Build
 npm run build
-```
