@@ -2,7 +2,7 @@
 
 A modern **Vue 3 + Vite + Vuetify** app for calculating **BMI, BMR, TDEE** and browsing an **exercise library** with images and step-by-step instructions.
 
-![App preview (iPhone mockup)](docs/preview.png)
+![App preview (iPhone mockup)](docs/preview2.png)
 
 ---
 
