@@ -1,0 +1,26 @@
+:root {
+    --ink-muted: #6b7280;
+}
+
+html,
+body,
+#app,
+.v-application {
+    background: #e4e4e4 !important;
+    min-height: 100%;
+}
+
+.v-container {
+    padding-left: 12px;
+    padding-right: 12px
+}
+
+.v-field--variant-outlined .v-field__outline {
+    --v-field-border-opacity: .3
+}
+
+/* ขอบจางนิด */
+.label,
+.mini {
+    color: var(--ink-muted)
+}

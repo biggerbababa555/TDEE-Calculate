@@ -1,0 +1,170 @@
+[
+  {
+    "id": "pushup",
+    "name": "Push-up",
+    "muscle": "อก",
+    "level": "Beginner",
+    "equipment": "ร่างกายเปล่า",
+    "steps": [
+      "วางมือกว้างกว่าหัวไหล่เล็กน้อย",
+      "ลำตัวตรง เกร็งแกนกลาง",
+      "งอศอกลง-ดันขึ้นหายใจออก"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Exercise_Press_Up.png",
+    "image_credit": "https://commons.wikimedia.org/wiki/File:Exercise_Press_Up.png"
+  },
+  {
+    "id": "bodyweight-squat",
+    "name": "Bodyweight Squat",
+    "muscle": "ขา",
+    "level": "Beginner",
+    "equipment": "ร่างกายเปล่า",
+    "steps": [
+      "ยืนเท้ากว้างเท่าหัวไหล่",
+      "นั่งสะโพกไปหลัง เข่าไม่เลยปลายเท้า",
+      "กดส้นเท้าขึ้น ยืนตัวตรง"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Squats%2001.gif",
+    "image_credit": "https://commons.wikimedia.org/wiki/File:Squats_01.gif"
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "muscle": "แกนกลาง",
+    "level": "Beginner",
+    "equipment": "เสื่อโยคะ (ถ้ามี)",
+    "steps": [
+      "คว่ำตัว ท่อนแขนยันพื้น ศอกใต้หัวไหล่",
+      "ลำตัวเป็นเส้นตรง ก้นไม่โด่ง/ไม่ตก",
+      "เกร็งท้อง หายใจสม่ำเสมอ ค้างตามเวลา"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Plank%20exercise.svg",
+    "image_credit": "https://commons.wikimedia.org/wiki/File:Plank_exercise.svg"
+  },
+  {
+    "id": "side-plank",
+    "name": "Side Plank",
+    "muscle": "แกนกลาง",
+    "level": "Beginner",
+    "equipment": "เสื่อโยคะ (ถ้ามี)",
+    "steps": [
+      "ตะแคง ท่อนแขนยันพื้น ศอกใต้หัวไหล่",
+      "ยกสะโพกให้ลำตัวเป็นเส้นตรง",
+      "ค้างตามเวลา แล้วสลับข้าง"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Side%20Plank.jpg",
+    "image_credit": "https://commons.wikimedia.org/wiki/File:Side_Plank.jpg"
+  },
+  {
+    "id": "walking-lunge",
+    "name": "Walking Lunge",
+    "muscle": "ขา",
+    "level": "Beginner",
+    "equipment": "ร่างกายเปล่า",
+    "steps": [
+      "ก้าวยาวไปข้างหน้า หลังตรง",
+      "งอเข่าหลังลงใกล้พื้น เข่าหน้าไม่เลยปลายเท้า",
+      "ดันขึ้นและก้าวสลับข้าง เดินต่อเนื่อง"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Walking-lunges-2.png",
+    "image_credit": "https://commons.wikimedia.org/wiki/File:Walking-lunges-2.png"
+  },
+  {
+    "id": "glute-bridge",
+    "name": "Glute Bridge",
+    "muscle": "สะโพก/หลังล่าง",
+    "level": "Beginner",
+    "equipment": "ร่างกายเปล่า",
+    "steps": [
+      "นอนหงาย งอเข่า เท้าราบพื้น",
+      "กดส้นเท้า ยกสะโพกจนลำตัวเป็นเส้นตรง",
+      "เกร็งก้นบนสุด แล้วลดสะโพกลงช้า ๆ"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Glute-bridge.png",
+    "image_credit": "https://commons.wikimedia.org/wiki/File:Glute-bridge.png"
+  },
+  {
+    "id": "db-shoulder-press",
+    "name": "Dumbbell Shoulder Press",
+    "muscle": "ไหล่",
+    "level": "Beginner",
+    "equipment": "ดัมบ์เบล",
+    "steps": [
+      "นั่ง/ยืน ถือดัมบ์เบลระดับไหล่ ฝ่ามือหันไปข้างหน้า",
+      "ดันขึ้นเหนือศีรษะไม่ล็อกศอก",
+      "ลดลงช้า ๆ คุมไหล่ไม่ยกหู"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dumbbell-shoulder-press-1.png",
+    "image_credit": "https://commons.wikimedia.org/wiki/File:Dumbbell-shoulder-press-1.png"
+  },
+  {
+    "id": "bent-over-row",
+    "name": "Bent-over Row (Barbell/Dumbbell)",
+    "muscle": "หลัง",
+    "level": "Intermediate",
+    "equipment": "บาร์เบล/ดัมบ์เบล",
+    "steps": [
+      "กางเท้าช่วงสะโพก ฮิปฮินจ์หลังตรง ลำตัวก้ม ~45°",
+      "ดึงบาร์/ดัมบ์เบลเข้าลำตัว ใบศอกชิดลำตัว",
+      "ค่อย ๆ ปล่อยลง คุมสะบัก"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Barbell-rear-delt-row-1.png",
+    "image_credit": "https://commons.wikimedia.org/wiki/File:Barbell-rear-delt-row-1.png"
+  },
+  {
+    "id": "pull-up",
+    "name": "Pull-up",
+    "muscle": "หลัง/แขน",
+    "level": "Intermediate",
+    "equipment": "บาร์ดึงข้อ",
+    "steps": [
+      "จับบาร์แบบคว่ำมือ กว้างกว่าหัวไหล่เล็กน้อย",
+      "เกร็งแกนกลาง ดึงจนคางพ้นบาร์",
+      "คุมตัวลงช้า ๆ แขนสุดช่วงโดยไม่ปล่อยเกินไป"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Weighted%2C%20wide-grip%20pullup%20video.gif",
+    "image_credit": "https://commons.wikimedia.org/wiki/Category:Fitness_animations"
+  },
+  {
+    "id": "bench-press",
+    "name": "Bench Press",
+    "muscle": "อก/แขน",
+    "level": "Intermediate",
+    "equipment": "บาร์เบล/ม้านอน",
+    "steps": [
+      "นอนบนม้านอน จับบาร์กว้างกว่าหัวไหล่เล็กน้อย",
+      "ถอดบาร์ ลดแตะอกช่วงล่าง",
+      "ดันขึ้นเหนืออก คุมสะบักและเท้าตรึงพื้น"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bench-press-2.png",
+    "image_credit": "https://commons.wikimedia.org/wiki/File:Bench-press-2.png"
+  },
+  {
+    "id": "calf-raise",
+    "name": "Standing Calf Raise",
+    "muscle": "น่อง",
+    "level": "Beginner",
+    "equipment": "ร่างกายเปล่า/ดัมบ์เบล (ถ้ามี)",
+    "steps": [
+      "ยืนปลายเท้าบนพื้น/ขอบขั้นบันได หลังตรง",
+      "ดันส้นขึ้นสูงสุด ค้าง 1 วินาที",
+      "ลดส้นลงช้า ๆ จนสุดช่วง"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Standing-calf-raises-2.gif",
+    "image_credit": "https://commons.wikimedia.org/wiki/File:Standing-calf-raises-2.gif"
+  },
+  {
+    "id": "bicycle-crunch",
+    "name": "Bicycle Crunch",
+    "muscle": "แกนกลาง",
+    "level": "Beginner",
+    "equipment": "เสื่อโยคะ (ถ้ามี)",
+    "steps": [
+      "นอนหงาย ชันเข่า มือประคองศีรษะ",
+      "ยกหัวไหล่ บิดศอกแตะเข่าตรงข้าม สลับซ้าย/ขวา",
+      "หลังล่างแนบพื้น คุมจังหวะหายใจ"
+    ],
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bicycle%20crunch%20with%20back%20support.jpg",
+    "image_credit": "https://commons.wikimedia.org/wiki/File:Bicycle_crunch_with_back_support.jpg"
+  }
+]
